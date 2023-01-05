@@ -11,7 +11,7 @@ export const projects = [
       title: "FitnessTrackr",
       subtitle: "React",
       description:
-        "React project from Fullstack Academy. It is a fitness app that can register and login users. Very minimal CSS was used.",
+        "React project from Fullstack Academy. It is a fitness app that can register and login users. Very minimal CSS was used as the focus was functionality.",
       image: "./fitnesstrackr.gif",
       link: "https://effervescent-kheer-167e80.netlify.app",
     },
@@ -19,7 +19,7 @@ export const projects = [
       title: "Stranger's Things",
       subtitle: "React",
       description:
-        "An advertising site based on Craigslist. It can create new users and view posts. The focus here was the functionality of the website.",
+        "An advertising site based on the popular site Craigslist. It can create new users and view posts. Very minimal CSS was used as the focus was functionality.",
       image: "./strangers-things.gif",
       link: "https://stalwart-gnome-c787e1.netlify.app",
     },
@@ -27,7 +27,7 @@ export const projects = [
       title: "Loading new projects...",
       subtitle: "Coming Soon!",
       description:
-        "I'm always looking for new things to build or to update my current projects. So, if you're following, stay tuned for any updated versions of my work! ",
+        "I am always looking for new things to build or to update my current projects. So, if you're following, stay tuned for any updated versions of my work or new projects!",
       image: "./Designer.gif",
       link: "",
     },
