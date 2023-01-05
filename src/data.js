@@ -11,7 +11,7 @@ export const projects = [
       title: "FitnessTrackr",
       subtitle: "React",
       description:
-        "React project from Fullstack Academy. It is a fitness app that can register and login users. Very minimal CSS was used as the focus was functionality.",
+        "A React project from the Fullstack Academy bootcamp. It is a fitness app that can register and login users. Very minimal CSS was used as the focus was functionality.",
       image: "./fitnesstrackr.gif",
       link: "https://effervescent-kheer-167e80.netlify.app",
     },
