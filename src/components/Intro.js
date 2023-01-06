@@ -28,9 +28,9 @@ export default function Intro() {
                     </p>
                     <div className="justify-center block">
                         <a
-                            href="#contact"
+                            href="https://docs.google.com/document/d/e/2PACX-1vT7F0g8PLUzqKUFaBgx3PsvNOjuagOGL91E5kpqUGCKB20HaEKJ88dQBERHlAKKpgwJ4XoerODjTpVm/pub"
                             className="inline-flex justify-center w-full md:w-fit text-white bg-indigo-500 border-0 mb-4 py-2 px-6 focus:outline-none hover:bg-indigo-700 rounded text-lg transition-colors duration-200 ease-in-out">
-                            Work With Me
+                            See My Resume
                         </a>
                         <a
                             href="#projects"
